@@ -878,18 +878,18 @@ img {
   margin: auto; }
 
 a {
-  color: #bf6a91;
+  color: #6a88bf;
   text-decoration: none; }
   a:hover, a:active, a:focus {
-    color: #ac4a77; }
+    color: #5f4aac; }
 
 h1 {
   text-align: center;
   font-family: "Bree Serif", serif; }
 
 button {
-  background-color: #bf6a91;
-  border-color: #bf6a91;
+  background-color: #6a88bf;
+  border-color: #6a7abf;
   color: #fff;
   transition: background 200ms ease-in-out, border-color 200ms ease-in-out, color 200ms ease-in-out;
   margin-bottom: 0;
@@ -907,15 +907,15 @@ button {
   button.full {
     width: 100%; }
   button:hover, button:active, button:focus {
-    background-color: #ac4a77;
-    border-color: #ac4a77;
+    background-color: #5f4aac;
+    border-color: #594aac;
     color: #fff; }
   button[type="submit"] {
     display: block;
     margin: 0; }
 
 header {
-  background-color: #bf6a91;
+  background-color: #6a73bf;
   height: 60px;
   margin-bottom: 80px; }
 
@@ -948,7 +948,7 @@ header {
   text-align: center;
   border-radius: 6px;
   background-color: #fff;
-  border: solid 2px #f0dce5;
+  border: solid 2px #d4d7f3;
   padding: 20px;
   margin-bottom: 24px; }
   .card img {
@@ -970,7 +970,7 @@ label {
 input[type="text"], select, textarea {
   border: solid 2px #ddd; }
   input[type="text"]:focus, select:focus, textarea:focus {
-    border: solid 2px #bf6a91; }
+    border: solid 2px #6a88bf; }
 
 select {
   text-transform: capitalize; }
